@@ -8,3 +8,11 @@ h1 {
     font-size: 5rem;
     text-align: center;
 }
+
+.single-task {
+    min-height: 75px;
+    padding: 5px;
+    background: salmon;
+    position: relative;
+    margin-bottom: 10px;
+}
